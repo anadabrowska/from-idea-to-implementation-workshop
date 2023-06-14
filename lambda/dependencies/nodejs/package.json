@@ -1,0 +1,10 @@
+{
+  "name": "skill-lambda",
+  "version": "1.0.0",
+  "main": "lambda.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "aws-sdk": "^2.1395.0",
+    "axios": "^1.4.0"
+  }
+}

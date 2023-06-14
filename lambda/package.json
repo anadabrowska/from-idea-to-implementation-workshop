@@ -1,0 +1,21 @@
+{
+  "name": "skill-lambda",
+  "version": "1.0.0",
+  "description": "lambda for alexa skill",
+  "main": "lambda.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./lambda.d.ts",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "aws-sdk": "^2.1395.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
