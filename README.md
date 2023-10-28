@@ -1,6 +1,6 @@
-# Perspektywy women in tech summit 2023 workshop "From idea to implementation"
+# Amazon workshop "From idea to implementation"
 
-> This is a project presented during Perspektywy Women in Tech Summit 2023 in scope of workshop "From idea to implementation" led by Amazon Development Center Poland.
+> This is a project prepared for the purpose of the workshop: "From idea to implementation" led by Amazon Development Center Poland.
 
 [git]:    https://git-scm.com/
 [codecatalyst]: https://codecatalyst.aws/explore
